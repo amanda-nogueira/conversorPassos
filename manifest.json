@@ -1,0 +1,13 @@
+{
+    "name": "Passos",
+    "start_url": "/conversorPassos/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/tenis-de-corrida.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
